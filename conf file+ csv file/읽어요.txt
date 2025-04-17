@@ -1,0 +1,2 @@
+population 파일은 이름을
+pop.csv로 바꿉니다.
