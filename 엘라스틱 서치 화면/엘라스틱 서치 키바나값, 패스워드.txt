@@ -1,0 +1,13 @@
+a2EcwctHQlxXdVZ9pB4a
+
+eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiMTkyLjE2OC4xMC4xMDo5MjAwIl0sImZnciI6IjE4YTA3OWZlMjg4NGUxMDMxZjc4NDUyYjNhM2JkMmY1NjM0YzJkZDhjZWFlNTBiZmQ0MzlhNTQ4YWU4ODcyMTIiLCJrZXkiOiIydmxvUVpZQmxtUUhoWHJ2NGY0cTpxdWM1RDEzdlJYYWZrWFRPMHJtLVBnIn0=
+
+
+'https://192.168.10.10:9200'
+
+http://localhost:9200/
+아래가 보안걸려있음 그래서 위에거로 가야함
+https://localhost:9200/
+-------
+C:\logstash-8.17.4
+

@@ -1,0 +1,7 @@
+C:\develop\git_space
+git clone 주소
+dir로 검색
+cd.. 파일경로 한칸뒤로
+git add 파일 이름
+git commit -m "" -> ""안에 주석
+git push ->완료
